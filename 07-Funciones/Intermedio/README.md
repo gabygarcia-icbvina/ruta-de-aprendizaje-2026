@@ -232,4 +232,4 @@ Crea una función `calcular_nota_final(parcial1, parcial2, examen, presentacion=
 
 ## Siguiente carpeta
 
-➡️ [`10_Listas`](../10_Listas/README.md)
+➡️ [`10_Listas`](../10_Listas/README.md)s
