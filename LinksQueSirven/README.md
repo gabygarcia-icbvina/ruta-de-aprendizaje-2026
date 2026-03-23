@@ -6,3 +6,7 @@ https://ellibrodepython.com/
 ---
 https://www.w3schools.com/python/default.asp
 ---
+https://www.youtube.com/@mouredev
+---
+https://www.youtube.com/@HolaMundoDev
+---
