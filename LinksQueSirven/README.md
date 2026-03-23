@@ -1,4 +1,4 @@
-# Aqu[i hay links que te podrian servir
+# Aqui hay links que te podrian servir
 
 https://aprendeconalf.es/docencia/python/
 ---
