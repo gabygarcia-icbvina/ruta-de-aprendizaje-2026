@@ -35,11 +35,61 @@ Dominar los fundamentos de la programación: desde entender qué es una variable
 ---
 
 ## 📂 Estructura del Proyecto
-
-```text
-.
-├── 01_variables/      # Ejercicios de tipos de datos y operaciones
-├── 02_condicionales/   # Retos de lógica y decisiones
-├── 03_bucles/          # Prácticas de repetición
-├── 04_colecciones/     # Uso de listas y diccionarios
-└── 05_funciones/       # Mini programas modulares
+├── general.py                 # Archivo general
+├── README.md                  # Este archivo
+├── 00-Introduccion/           # Introducción a Python
+│   ├── practice.py
+│   └── README.md
+├── 01-VariablesTipos/         # Variables y tipos de datos
+│   ├── practice.py
+│   └── README.md
+├── 02-InputOutput/            # Entrada y salida de datos
+│   ├── practice.py
+│   └── README.md
+├── 03-OperadoresAritmeticos/  # Operadores aritméticos
+│   ├── practice.py
+│   └── README.md
+├── 04-Condicionales/          # Estructuras condicionales
+│   ├── practice.py
+│   └── README.md
+├── 05-Bucles/                 # Bucles y repeticiones
+│   ├── practice.py
+│   └── README.md
+├── 06-LogicaBooleana/         # Lógica booleana
+│   ├── practice.py
+│   └── README.md
+├── 07-Funciones/              # Funciones
+│   ├── practice.py
+│   ├── Basica/
+│   │   └── README.md
+│   └── Intermedio/
+│       └── README.md
+├── 08-Listas/                 # Listas
+│   ├── practice.py
+│   └── README.md
+├── 09-Tuplas/                 # Tuplas
+│   ├── practice.py
+│   └── README.md
+├── 0X-BuenasPracticas/        # Buenas prácticas
+├── 10-Diccionarios/           # Diccionarios
+│   ├── practice.py
+│   └── README.md
+├── 11-FStrings/               # F-Strings
+│   ├── practice.py
+│   └── README.md
+├── 12-Sets/                   # Sets
+│   ├── practice.py
+│   └── README.md
+├── 13-ManejoDeArchivos/       # Manejo de archivos
+│   ├── practice.py
+│   └── README.md
+├── 14-Excepciones/            # Excepciones
+│   └── practice.py
+├── 15-ImportacionDeLibsArchivos/  # Importación de librerías y archivos
+│   └── practice.py
+├── 16-EstructuraDeTipado/     # Estructura de tipado
+│   └── practice.py
+├── 17-POO/                    # Programación Orientada a Objetos
+│   └── practice.py
+└── 18-PythonFueraDeCodigo/    # Python fuera del código
+    └── practice.py
